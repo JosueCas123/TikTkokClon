@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:tiktok_clon/presentation/screen/discover/discover_screen.dart';
 import 'package:tiktok_clon/presentation/providers/discover_provider.dart';
-import 'package:tiktok_clon/theme/app_theme.dart';
+import 'package:tiktok_clon/config/theme/app_theme.dart';
 
 void main() => runApp(const MyApp());
 
